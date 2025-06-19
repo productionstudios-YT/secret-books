@@ -1,7 +1,7 @@
 
 # Secret-Books
 
-Welcome to **Secret-Books**! This repository is a collection of **vintage and classic books** in the field of **Computer Science**. All of these books are **70+ years old** and provide valuable insights into the foundations of computing, algorithms, software engineering, and other essential topics in the field. In addition to the books themselves, some of them also contain **project files** that showcase hands-on applications of the concepts discussed within the texts.
+Welcome to **Secret-Books**! This repository is a collection of **vintage and classic books** in the field of **Computer Science**. there books that are **70+ books** and provide valuable insights into the foundations of computing, algorithms, software engineering, and other essential topics in the field. In addition to the books themselves, some of them also contain **project files** that showcase hands-on applications of the concepts discussed within the texts.
 
 While the current collection primarily focuses on **Computer Science knowledge**, **more diverse topics** will be added in the near future. Expect to see a growing range of subjects including but not limited to:
 
