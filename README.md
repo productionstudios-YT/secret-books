@@ -1,6 +1,3 @@
-Sure! Here's a long, detailed README for your GitHub repository, based on the description you provided:
-
----
 
 # Secret-Books
 
